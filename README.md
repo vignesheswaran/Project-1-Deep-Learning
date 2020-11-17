@@ -8,4 +8,4 @@
 
 4) Using Transfer learning technique and with state of art model VGG16 the datset has been trained with weights "imagenet" .
 
-5) Thanks :)
+Thank You :)
